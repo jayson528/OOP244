@@ -1,0 +1,5 @@
+1)	abstract classes usally have partial or no implementation, but concret classes always have implementation.
+
+2)	display, credit, debit and monthend.
+
+3)	i have learned how to implements and use derived classes with virtual functions.

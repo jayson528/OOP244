@@ -1,0 +1,16 @@
+1:	the char array we always make the char array one size bigger than we need in order to store the null terminator, if you 
+	want to store a string thats 40 characters long, the array must be able to to hold 41 characters in order for the null 
+	to fit in the last index of the array.
+2:	in C++ the feature is called overloading a function.
+
+3:	im still learning about pointers and addresses, after this workshop i have become more comfertable using them.
+
+
+
+QUIZ 3 REFLECTION
+
+
+3) D
+4) A
+6) 00123456
+8) cout << right  << setw(n) << "text"

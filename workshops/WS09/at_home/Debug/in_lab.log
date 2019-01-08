@@ -1,0 +1,6 @@
+﻿  Data.cpp
+y:\semester-2\oop 244\workshops\ws09\in_lab\data.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+y:\semester-2\oop 244\workshops\ws09\in_lab\data.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ws9_lab.cpp
+  Generating Code...
+  in_lab.vcxproj -> Y:\Semester-2\OOP 244\workshops\WS09\in_lab\Debug\in_lab.exe

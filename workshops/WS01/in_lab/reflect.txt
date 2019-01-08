@@ -1,0 +1,33 @@
+1:
+Namespace is used in larger programs to try and prevent confusion for the compiler when using variables and such with similar names. You can enclose different parts of your code with different name spaces to avoid conflict with other parts of your code and compilation errors.
+
+2:
+Header files are used to separate function definitions and prototypes from the main source code for easier readability, and also aid in using those function in different programs in an attempt to same time having to write the code over and over.
+
+3:
+We compile only the .cpp file because the .h files are already included when we use the #include keyword. This prevents from compelling the same code twice.
+
+4:
+You don’t want to include .cpp files because when its time to compile your code, the compiler will take 2 copies of the same file and there will be duplication of the same file and may cause compiling errors.
+
+5:
+From completing this workshop I have learned about namespaces and how how to use them effectively.
+
+
+Quiz 1 reflection
+
+Question 1
+Inheritance 
+
+Question 4
+Endl 
+
+Question 5
+Insertion operator 
+
+Question 6
+Polymorphism 
+
+
+
+ 

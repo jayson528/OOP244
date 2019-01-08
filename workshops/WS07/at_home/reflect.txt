@@ -1,0 +1,7 @@
+1)	No the hero class does not need to know about the superHero class.
+
+2)	Yes the superHero class is a derived class based on the Hero class, therefore the SuperHero class must know about the Hero class.
+
+3)	Best Greeks Hero vs Best Comic Book SuperHero.
+
+4)	Both options are false.

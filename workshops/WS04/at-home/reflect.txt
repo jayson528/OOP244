@@ -1,0 +1,23 @@
+1) a safe empy state is just reffering to when a variable is initinied to a predefined value that youve set, for example a safe empty state for 
+	an int variable called age could be 0, instead of the garbage number we get if its left not initilized. any state could be a safe empty
+	as ong as its a state that you know youve set, for example a safe empty state for a tring could be "name" thats set by you. you know its
+	a safe empty state because no ones name is "name" and if the variable has the word "name" in it, you can assume thats its empty and ready
+	to be used.
+
+2) we can minimize code duplication a number of ways, for example in an object constructor with parameters, if the parameters are invalid, we can
+	use "this." to reffer to the defult contructor to set the safe empty state insead of writing the code again.
+
+3) in the canTravelWith() memeber, they can access other objets private data becasue both objects are of the same type and made with the same 
+	constructor, so they have acess to each others private data.
+
+4)#define _CRT_SECURE_NO_WARNINGS
+
+
+5) I have learned about constructors and how they work and how they need to be implemented.
+
+
+quiz 4 reflection
+
+1)the defult constructor is called automatically when the object is first created to initilize the memebers to a safe empty state.
+
+ 

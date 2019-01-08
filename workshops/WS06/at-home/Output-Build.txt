@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: at-home, Configuration: Debug Win32 ------
+1>w6_at_home.cpp
+1>at-home.vcxproj -> \\Mac\iCloud\Semester-2\OOP 244\WS06\at-home\Debug\at-home.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

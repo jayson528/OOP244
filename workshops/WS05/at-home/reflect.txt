@@ -1,0 +1,15 @@
+1)	The overloaded + in the Fraction object does not return a referance because it is unable
+	to modify either object, it simply just return the "result" of both objects added together
+	without actually modifying anything.
+
+2)	the temp objects were created in the addition and multiplacation memeber of the object.
+
+3)	instead of calling the reduce function everywhere, it it just called in the constructor
+	so that it may be reduces as soon as its created, i have also reduced code by just calling
+	the defult constructor instead of  trying to set an safe empty state every time its required.
+
+4)	i have learned how to overload	operators so that they work differantly than they were 
+	originally intended for.
+
+
+quiz 5 reflection

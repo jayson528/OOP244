@@ -1,0 +1,10 @@
+1)	when i moved the templated functions to the .CPP file, i got compilation errors, functions were not found. when everyting was moved to the 
+.H file, the code would not compile due to errors, multiple defined symbols found.
+
+2)	after moving one templated function over to ws9_lab.cpp. i was unable to compile my code. i tried before and after the main function and also
+inside the main function but i could still not compile correctly.
+
+3)	yes i belive i could have done this lab without the use of templates but it would have made it alot more difficult. i would need to make the 
+function multiple times with differant signitures in order to be able to accept differant type of parameters.
+
+4)	yes the two examples are the same but there may be certian cases where you would need to use one over the other.

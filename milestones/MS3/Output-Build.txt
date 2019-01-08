@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: MS3, Configuration: Debug Win32 ------
+1>ErrorState.cpp
+1>MS3.vcxproj -> \\Mac\iCloud\Semester-2\OOP 244\milestones\MS3\Debug\MS3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

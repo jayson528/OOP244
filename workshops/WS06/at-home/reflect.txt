@@ -1,0 +1,18 @@
+
+
+1)	we check for self assignment first becasue if we dont the deallocation statment will release the part of the memory that holding the data and
+it will be lost and may cause logical errors.
+
+2)	i avoided duplicating code by writing functions for certin actions and called them when needed. or instead of setting every variable to safe
+empty state when needed, i just called the default constructor and that would perform the action.
+
+3)	i had a very diffcult time with this lab, its been the hardest one for me so far. ive learned a little about allocating and deallocating memory
+memory depending how much is needed.
+
+
+quiz 6 reflection
+
+
+email = new char [];
+return *this;
+delete [] email;

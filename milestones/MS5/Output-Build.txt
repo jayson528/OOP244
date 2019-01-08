@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: MS5, Configuration: Debug Win32 ------
+1>Product.cpp
+1>MS5.vcxproj -> \\Mac\iCloud\School\Semester-2\OOP 244\milestones\MS5\Debug\MS5.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

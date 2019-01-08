@@ -1,0 +1,8 @@
+﻿1>------ Build started: Project: in_lab, Configuration: Debug Win32 ------
+1>Account.cpp
+1>Allocator.cpp
+1>SavingsAccount.cpp
+1>w8_in_lab.cpp
+1>Generating Code...
+1>in_lab.vcxproj -> Y:\Semester-2\OOP 244\workshops\WS08\in_lab\Debug\in_lab.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

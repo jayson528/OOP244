@@ -1,0 +1,7 @@
+﻿  Hero.cpp
+y:\semester-2\oop 244\workshops\ws07\at_home\hero.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+  superHero.cpp
+  w7_at_home.cpp
+  Generating Code...
+  at_home.vcxproj -> Y:\Semester-2\OOP 244\workshops\WS07\at_home\Debug\at_home.exe
